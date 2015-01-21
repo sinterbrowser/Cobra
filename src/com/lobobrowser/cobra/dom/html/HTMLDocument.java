@@ -1,8 +1,8 @@
-package com.lobobrowser.dom.html;
+package com.lobobrowser.cobra.dom.html;
 
-import com.lobobrowser.dom.Document;
-import com.lobobrowser.dom.NodeList;
-import com.lobobrowser.dom.DOMException;
+import com.lobobrowser.cobra.dom.Document;
+import com.lobobrowser.cobra.dom.NodeList;
+import com.lobobrowser.cobra.dom.DOMException;
 
 public interface HTMLDocument extends Document {
     /**
