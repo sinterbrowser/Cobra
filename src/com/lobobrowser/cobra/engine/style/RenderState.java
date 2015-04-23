@@ -21,7 +21,7 @@
 /*
  * Created on Apr 16, 2005
  */
-package org.lobobrowser.html.style;
+package com.lobobrowser.cobra.engine.style;
 
 import java.awt.Color;
 import java.awt.Cursor;
